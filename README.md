@@ -35,21 +35,14 @@ This data was provided by our facilitator
 
 
 ### Data Cleaning and Preparation
-The data was loaded into the tool and transformed before visualization was done. The first row was made the header as the columns were without a header. Then the data was ready for visualization. In the process of visualizing, conditional columns were created to attain:
+The data was loaded into the tool and transformed before visualization was done. The first row was made the header as the columns were without a header.  The column quality, profile and distribution were checked before visualization was performed, and the data was ready for visualization. In the process of visualizing, conditional columns were created to attain:
 * Age sort which represents- Under 25 = 1, 25-34 = 2, 35-44 = 3, 45-54 = 4, while Above 55 = 5
 * Job Satisfaction which represents- Very Dissatisfied = 1, Dissatisfied = 2, Satisfied = 3, Very Satisfied = 4
 * Attrition Count which represents- Yes = 1, No = 0
-Also. measures were calculated to attain:
+Also, measures were calculated to attain:
 * Average Age- Average(Age)
 * Attrition Rate- Sum(Attrition Count) / Sum(Employee Count), the column will then be changed under measure tools from whole numbers to percentage.
 
-
-
-
-
-
-
- A calculated column was created to attain the Total Sales/Revenue while a measure was calculated to attain the Average Revenue. The column quality, profile and distribution were checked before visualization was performed.
 
 ![HR Data Quality](https://github.com/user-attachments/assets/8410f406-4259-43a8-a0d6-048e14eddae1)
 
