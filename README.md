@@ -2,11 +2,12 @@
 
 ## LITA-HR-DATA
 
-A data Visualization and business intelligence tool for converting data from different sources to interactive dashboards. The following are required to be presented on the visualization tool:
-1. Create a dashboard that visualises the Excel and SQL insights.
-2. The dashboard should include a sales overview, top-performing products, and regional breakdowns.
+### Data Source
+This data was provided by our facilitator
 
-   The cleaned Excel file was loaded and transformed before visualization was performed, A calculated column was created to attain the Total Sales/Revenue while a measure was calculated to attain the Average Revenue. The column quality, profile and distribution were checked before visualization was performed.
+### Data Description
+   The dataset contains 1,470 employee records across 41 columns, providing a comprehensive overview of various HR-related details.
+    A calculated column was created to attain the Total Sales/Revenue while a measure was calculated to attain the Average Revenue. The column quality, profile and distribution were checked before visualization was performed.
 
 
 ![HR Data Quality](https://github.com/user-attachments/assets/b1572af7-7a1e-4f38-9e40-2be9596a38f6)
