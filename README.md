@@ -43,8 +43,7 @@ This data was provided by our facilitator
 
  A calculated column was created to attain the Total Sales/Revenue while a measure was calculated to attain the Average Revenue. The column quality, profile and distribution were checked before visualization was performed.
 
-
-![HR Data Quality](https://github.com/user-attachments/assets/b1572af7-7a1e-4f38-9e40-2be9596a38f6)
+![HR Data Quality](https://github.com/user-attachments/assets/8410f406-4259-43a8-a0d6-048e14eddae1)
 
 
 ![HR Data Dashboard](https://github.com/user-attachments/assets/e99b5be7-39a3-465c-b39e-9d1c30046f82)
