@@ -27,7 +27,8 @@ This data was provided by our facilitator
 * What is the total number of attrition and attrition count?
 * Classify the job satisfaction range by the job roles.
 * What is the total number of employees according to their marital status?
-* 
+* What is the percentage of employees according to their age band?
+* What is the number of female employees according to their age band
 
 
 
