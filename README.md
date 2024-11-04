@@ -21,6 +21,14 @@ This data was provided by our facilitator
 
 **Age and Experience Bands**: Grouped fields, such as CF_age band and CF_attrition label, categorize employees by age range and attrition status (current or former employees), facilitating analysis across age groups and tenure.
 
+### Exploratory Data Analysis
+* What is the total number of employees in each education field?
+* How many employees are in the Organization?
+* What is the total number of attrition and attrition count?
+* Classify the job satisfaction range by the job roles.
+* What is the total number of employees according to their marital status?
+* 
+
 
 
 
