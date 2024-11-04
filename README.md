@@ -39,6 +39,7 @@ The data was loaded into the tool and transformed before visualization was done.
 * Age sort which represents- Under 25 = 1, 25-34 = 2, 35-44 = 3, 45-54 = 4, while Above 55 = 5
 * Job Satisfaction which represents- Very Dissatisfied = 1, Dissatisfied = 2, Satisfied = 3, Very Satisfied = 4
 * Attrition Count which represents- Yes = 1, No = 0
+
 Also, measures were calculated to attain:
 * Average Age- Average(Age)
 * Attrition Rate- Sum(Attrition Count) / Sum(Employee Count), the column will then be changed under measure tools from whole numbers to percentage.
