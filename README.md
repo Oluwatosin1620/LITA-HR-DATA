@@ -11,7 +11,7 @@ This data was provided by our facilitator
 
 **Work and Role Details**: Data on job-related factors such as Job Role, Job Level, Years at the Company, Years in the Current Role, Years Since the Last Promotion, and Years With the Current Manager are provided. The average tenure within the company is around 7 years, and employees have been in their current roles for an average of 4 years.
 
-**Compensation & Financials**: Employee compensation details include Monthly Income, Hourly Rate, Daily Rate, and Monthly Rate. Additionally, Stock Option Level and Percent Salary Hike indicate bonus and salary increase metrics, contributing to insights on compensation growth over time.
+**Compensation & Financials**: Employee compensation details include Monthly Income, Hourly Rate, Daily Rate, and Monthly Rate. In addition, Stock Option Level and Percent Salary Hike indicate bonus and salary increase metrics, contributing to insights on compensation growth over time.
 
 **Performance and Job Satisfaction**: Ratings like Performance Rating, Environment Satisfaction, Job Satisfaction, Relationship Satisfaction, and Work-Life Balance are available, allowing for analysis of employee satisfaction and engagement. Performance Rating has an average score of about 3.15, with most ratings in the 3–4 range.
 
