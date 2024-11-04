@@ -31,6 +31,7 @@ This data was provided by our facilitator
 * What is the total number of female employees according to their age band?
 * What is the total number of male employees according to their age band?
 * What is the total number of employees in each department?
+* What is the highest and lowest level of education in each department?
 
 
 
