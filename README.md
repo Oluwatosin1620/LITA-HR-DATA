@@ -21,6 +21,7 @@ This data was provided by our facilitator
 
 **Age and Experience Bands**: Grouped fields, such as CF_age band and CF_attrition label, categorize employees by age range and attrition status (current or former employees), facilitating analysis across age groups and tenure.
 
+
 ### Exploratory Data Analysis
 * What is the total number of employees in each education field?
 * How many employees are in the Organization?
@@ -46,6 +47,7 @@ Also, measures were calculated to attain:
 
 
 ![HR Data Quality](https://github.com/user-attachments/assets/8410f406-4259-43a8-a0d6-048e14eddae1)
+
 
 ### Data Visuaization
 
@@ -83,12 +85,15 @@ This analysis presents a comprehensive overview of employee attrition within an 
 1. HR Department: The majority are aged 25-34 (22 employees: 9 females, 13 males), while the smallest group is those under 25.
 2. R&D Department: The most significant age groups are 25-34 (348 employees: 137 females, 211 males) and 35-44 (342 employees: 136 females, 206 males).
 3. Sales Department: The age groups with the most employees are 25-34 (184 employees: 71 females, 113 males) and 35-44 (138 employees: 54 females, 84 males).
+   
 **Summary**: Across all departments, the 25-34 age range is the most represented, while employees over 55 represent the smallest group. The age distribution suggests that retention strategies should prioritize the young workforce, who may be in the early stages of their careers and are more open to opportunities for development and progression.
 
 * Attrition by Education Level: Attrition patterns by education reveal that Bachelor’s degree holders have the highest attrition, followed by Master’s degree holders, Associate degree holders, and then those with High School and Doctoral degrees.
+  
 **Summary**: This trend indicates that mid-level educated employees (primarily Bachelor’s degree holders) may be more mobile and open to external opportunities, warranting a focus on creating compelling advancement paths and development programs to retain this group.
   
 * Marital Status: Most employees are married, with divorced and single employees evenly distributed across departments. There is no significant correlation between marital status and attrition rate.
+  
 **Summary**: Marital status does not appear to be a defining factor in attrition, suggesting that other factors, such as job role and satisfaction level, play a more pivotal role in influencing employee decisions to leave.
 Job Role and Satisfaction Levels:
 
@@ -98,6 +103,7 @@ Job Role and Satisfaction Levels:
 3. Laboratory Technicians: 62 employees show a balanced spread, although some experience dissatisfaction.
 4. Managers: 5 employees show varied satisfaction, with some indicating dissatisfaction.
 5. Sales Executive and Research Scientist roles indicate higher dissatisfaction, with 16 and 13 very dissatisfied employees, respectively.
+   
 **Summary**: Job roles like Sales Executive and Research Scientist report high dissatisfaction, which may contribute to the organization’s attrition levels in these roles. Targeted engagement and job redesign strategies could improve job satisfaction and, ultimately, retention in these roles.
 
 * Age Distribution by Job Role: Analysis of age distribution within job roles reveals that:
@@ -105,6 +111,7 @@ Job Role and Satisfaction Levels:
 2. HR Roles: Most employees are aged 35-44, while under 25 and over 55 have minimal representation.
 3. Manager Roles: Highest representation is within the 45-54 age band.
 4. Sales Representatives and Executives: Predominantly in the 25-34 age range.
+   
 **Summary**: The 25-34 age group dominates many job roles, particularly in Sales and Research, where dissatisfaction is also high. This suggests that younger employees in these roles may need enhanced development and recognition programs to maintain their engagement.
 
 
@@ -121,8 +128,9 @@ This analysis shows that the Sales and R&D departments have the highest attritio
 * Targeted Retention in Education Fields: Focus on Life Sciences and Medical fields, where attrition is notably high, to understand and address the specific causes of turnover, possibly through tailored retention and rewards programs.
 
 * Continued Support for Senior Employees: For employees over 55, the organization can introduce programs that support longer-term retention, such as flexible working hours or transition planning.
+  
 
-  Implementing these strategies could strengthen retention across departments, foster growth, and enhance job satisfaction, promoting a balanced, motivated, and committed workforce.
+  ##### Implementing these strategies could strengthen retention across departments, foster growth, and enhance job satisfaction, promoting a balanced, motivated, and committed workforce.
 
 
 
